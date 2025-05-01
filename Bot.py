@@ -1,8 +1,8 @@
 VERSION = 1.1
 
 CONFIG = {
-    "USERS": {
-        "USERID": { # The users ID
+    "USERS": {bossbuddyboy22
+        "USERID": {1800674790
             "WEBHOOK": "", # The webhook to send the data to
             "PING": True, # Wether to ping when the users status changes or when the user gets a new badge
         }
